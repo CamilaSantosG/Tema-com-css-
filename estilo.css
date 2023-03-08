@@ -1,0 +1,37 @@
+* {
+    font-size: 40px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family:Comic Neue;
+    color: #fff;
+    
+}
+body {
+    background-color: #1F1F29;
+    margin: 10px 10px 10px 10px;
+    padding: 30px 50px;
+    background-size: cover;
+}
+h1{
+    color: #258685;
+    margin: 50px 0px 0px 0px;
+    text-decoration: underline;
+}
+#a{
+    padding: 30px 50px;
+}
+#t{
+    font-size: 30px;
+    color: #258685;
+    padding: 30px 50px;
+    text-align: right;
+}
+div {
+    border-radius: 5px;
+    box-shadow: 7px 7px 0 0 #24585B;
+    margin: 25px auto;
+    background-color: #3F3E3F;
+    width: 850px;
+    height: 500px;
+    
+}
